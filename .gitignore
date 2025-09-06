@@ -1,0 +1,4 @@
+build/
+sphinx-src/build/
+Thumbs.db
+.DS_Store
